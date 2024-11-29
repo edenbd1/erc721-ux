@@ -1,1 +1,1 @@
-https://erc721-uxx.vercel.app/chain-info
+https://erc721-uxx.vercel.app
